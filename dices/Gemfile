@@ -1,3 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'colorize'
+
+puts "Bosse did /ignore on me so he doesn't have to help me and so he can't hear me shouting for his help".blue
+
